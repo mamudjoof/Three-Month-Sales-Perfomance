@@ -39,3 +39,11 @@ Visualizations were created using Excel dashboards to present:
 These charts enabled better interpretation and communication of insights.
 
 ![image alt](https://github.com/mamudjoof/Three-Month-Sales-Perfomance/blob/main/Screenshot_29-6-2025_12858_.jpeg?raw=true)
+
+# 5. Conclusion
+From the analysis, we concluded:
+- January was the most profitable month across all branches.
+- Electronic accessories were the most lucrative product line.
+- E-wallet is the most preferred payment method.
+- Afternoon hours saw the highest volume of transactions.
+- Sales were relatively balanced across weekdays, with minor variations.
