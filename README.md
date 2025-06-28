@@ -38,4 +38,4 @@ Visualizations were created using Excel dashboards to present:
 
 These charts enabled better interpretation and communication of insights.
 
-![image alt]()
+![image alt](https://github.com/mamudjoof/Three-Month-Sales-Perfomance/blob/main/Screenshot_29-6-2025_12858_.jpeg?raw=true)
