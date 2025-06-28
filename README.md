@@ -53,3 +53,6 @@ Adopt Best Practices from High-Performing Branches (e.g., Alman in January), ana
 
 Analyze City-Based Preferences and Customize Offerings, since cities like Manhattan, Baston, and Red City show higher quantities sold, determine what specific products sell well in those regions. Tailor inventory and promotions in each branch based on the city's customer preferences and demographics. While weekday sales are fairly balanced, more targeted weekday promotions (e.g., Tuesday Treats, Wednesday Deals) could create a consistent sales lift. Use SMS/email marketing to notify regular customers of branch-specific weekday promotions.
 
+#Author
+MAMUD JOOF
+
